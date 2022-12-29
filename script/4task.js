@@ -4,7 +4,7 @@
 
 
 
-function cntr(a, b){
+/* function cntr(a, b){
     let counter = a;
     const i = setInterval(function(){
     console.log(counter);
@@ -14,4 +14,4 @@ function cntr(a, b){
     }
 }, 1000);
 }
-cntr(3, 45)
+cntr(5, 15) */
